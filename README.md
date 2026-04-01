@@ -15,3 +15,10 @@ This project showcases my skills, projects, and journey as a B.Tech CSE (AI & ML
 Frontend: HTML, CSS, JavaScript  
 Tools: Git, GitHub, VS Code
 Link - https://avinashukla960.github.io/My-Portfoliio/
+
+✨ Features of Portfolio
+👤 Personal introduction section
+📂 Projects showcase
+🧠 Skills overview
+📞 Contact section
+📱 Responsive design
