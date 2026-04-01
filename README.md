@@ -22,3 +22,13 @@ Link - https://avinashukla960.github.io/My-Portfoliio/
 🧠 Skills overview
 📞 Contact section
 📱 Responsive design
+
+⭐ Support
+
+If you like this project, please consider giving it a ⭐ on GitHub!
+
+🔮 Future Improvements
+Add more advanced projects
+Integrate backend functionality
+Improve UI/UX with animations
+Add blog section
