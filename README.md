@@ -17,7 +17,7 @@ Tools: Git, GitHub, VS Code
 Link - https://avinashukla960.github.io/My-Portfoliio/
 
 ✨ Features of Portfolio
-👤 Personal introduction sectio
+👤 Personal introduction section
 📂 Projects showcase
 🧠 Skills overview
 📞 Contact section
